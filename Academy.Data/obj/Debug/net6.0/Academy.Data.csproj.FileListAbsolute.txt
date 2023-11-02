@@ -1,0 +1,15 @@
+/Users/leylahaciyeva/Projects/Academy.App/Academy.Data/bin/Debug/net6.0/Academy.Data.deps.json
+/Users/leylahaciyeva/Projects/Academy.App/Academy.Data/bin/Debug/net6.0/Academy.Data.dll
+/Users/leylahaciyeva/Projects/Academy.App/Academy.Data/bin/Debug/net6.0/Academy.Data.pdb
+/Users/leylahaciyeva/Projects/Academy.App/Academy.Data/bin/Debug/net6.0/Academy.Core.dll
+/Users/leylahaciyeva/Projects/Academy.App/Academy.Data/bin/Debug/net6.0/Academy.Core.pdb
+/Users/leylahaciyeva/Projects/Academy.App/Academy.Data/obj/Debug/net6.0/Academy.Data.csproj.AssemblyReference.cache
+/Users/leylahaciyeva/Projects/Academy.App/Academy.Data/obj/Debug/net6.0/Academy.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leylahaciyeva/Projects/Academy.App/Academy.Data/obj/Debug/net6.0/Academy.Data.AssemblyInfoInputs.cache
+/Users/leylahaciyeva/Projects/Academy.App/Academy.Data/obj/Debug/net6.0/Academy.Data.AssemblyInfo.cs
+/Users/leylahaciyeva/Projects/Academy.App/Academy.Data/obj/Debug/net6.0/Academy.Data.csproj.CoreCompileInputs.cache
+/Users/leylahaciyeva/Projects/Academy.App/Academy.Data/obj/Debug/net6.0/Academy.Data.csproj.CopyComplete
+/Users/leylahaciyeva/Projects/Academy.App/Academy.Data/obj/Debug/net6.0/Academy.Data.dll
+/Users/leylahaciyeva/Projects/Academy.App/Academy.Data/obj/Debug/net6.0/refint/Academy.Data.dll
+/Users/leylahaciyeva/Projects/Academy.App/Academy.Data/obj/Debug/net6.0/Academy.Data.pdb
+/Users/leylahaciyeva/Projects/Academy.App/Academy.Data/obj/Debug/net6.0/ref/Academy.Data.dll

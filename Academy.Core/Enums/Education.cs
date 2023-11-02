@@ -1,11 +1,11 @@
 ﻿using System;
 namespace Academy.Core.Enums
 {
-	public class Education
+	public enum Education
 	{
-		public Education()
-		{
-		}
-	}
+		Programming=1,
+        Designer,
+        SystemAdministration
+    }
 }
 

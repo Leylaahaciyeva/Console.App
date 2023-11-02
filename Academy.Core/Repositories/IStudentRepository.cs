@@ -1,8 +1,10 @@
 ﻿using System;
+using Academy.Core.Models;
+
 namespace Academy.Core.Repositories
 {
-	public interface IStudentRepository
-	{
+	public interface IStudentRepository : IRepository<Student>
+    {
 	}
 }
 
