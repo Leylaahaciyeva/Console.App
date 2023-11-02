@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{593271C3-F4A5-4546-B2D7-0E5C7622E2B0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Academy.Data FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Academy.App FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Academy.Core FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Academy.Service FirstBuild="True" />
+</Properties>
