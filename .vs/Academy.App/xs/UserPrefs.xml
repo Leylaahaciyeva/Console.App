@@ -1,44 +1,44 @@
 ﻿<Properties StartupConfiguration="{593271C3-F4A5-4546-B2D7-0E5C7622E2B0}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Academy.App PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Academy.Data FirstBuild="True" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Academy.App FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Academy.Data/Repositories/Repository.cs">
     <Files>
-      <File FileName="Academy.App/Program.cs" Line="15" Column="16" />
+      <File FileName="Academy.App/Program.cs" Line="4" Column="28" />
       <File FileName="Academy.Core/Models/Base Models/BaseModel.cs" Line="4" Column="18" />
-      <File FileName="Academy.Core/Models/Student.cs" Line="18" Column="44" />
-      <File FileName="Academy.Core/Enums/Education.cs" Line="8" Column="29" />
+      <File FileName="Academy.Core/Models/Student.cs" />
+      <File FileName="Academy.Core/Enums/Education.cs" />
       <File FileName="Academy.Core/Repositories/IRepository.cs" Line="6" Column="51" />
       <File FileName="Academy.Data/Repositories/Repository.cs" Line="34" Column="35" />
-      <File FileName="Academy.Core/Repositories/IStudentRepository.cs" Line="11" Column="1" />
-      <File FileName="Academy.Data/Repositories/StudentRepository.cs" Line="13" Column="1" />
+      <File FileName="Academy.Core/Repositories/IStudentRepository.cs" />
+      <File FileName="Academy.Data/Repositories/StudentRepository.cs" />
       <File FileName="Academy.Service/Interfaces/IStudentService.cs" Line="9" Column="51" />
-      <File FileName="Academy.Service/Implementations/StudentService.cs" Line="65" Column="57" />
+      <File FileName="Academy.Service/Implementations/StudentService.cs" Line="80" Column="1" />
+      <File FileName="Academy.Service/Implementations/MenuService.cs" Line="39" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Academy.App" expanded="True">
-            <Node name="Academy.App">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-            <Node name="Academy.Data">
+          <Node name="Academy.App" expanded="True" selected="True">
+            <Node name="Academy.Core" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Base Models" expanded="True" />
+              </Node>
               <Node name="Repositories" expanded="True" />
             </Node>
-            <Node name="Academy.Service">
-              <Node name="Implementations" expanded="True" />
-              <Node name="Interfaces" expanded="True" />
+            <Node name="Academy.Data" expanded="True">
+              <Node name="Repositories" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Academy.Core FirstBuild="True" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Academy.Service FirstBuild="True" />
 </Properties>

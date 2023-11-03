@@ -15,13 +15,14 @@ namespace Academy.Core.Models
 		public Student(string fullname,string group,int average,Education education)
 		{
 			_id++;
-			Id = $"{Education.ToString()[0]}-{_id}";
 			FullName = fullname;
 			Group = group;
 			Average = average;
 			Education = education;
-		}
+            Id = $"{Education.ToString()[0]}-{_id}";
 
-	}
+        }
+
+    }
 }
 
